@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xml:lang="en-US" version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+     <meta name="dtb:uid" content="9781406951936"></meta>
+     <meta name="dtb:depth" content="0"></meta>
+     <meta name="dtb:totalPageCount" content="0"></meta>
+     <meta name="dtb:maxPageNumber" content="0"></meta>
+  </head>
+  <docTitle><text>Messages from the Universe</text></docTitle>
+  <docAuthor><text>Peter Glen</text></docAuthor>
+
+<navmap>
+	<navPoint class="chapter" playOrder="0" id="navPoint-1">
+    	<navLabel><text>Title page</text></navLabel>
+      		<content src="MEFTU/__Title.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="1" id="navPoint-1">
+    	<navLabel><text>Introduction</text></navLabel>
+      		<content src="MEFTU/_Intro.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="2" id="navPoint-1">
+    	<navLabel><text>Tabel of Contents</text></navLabel>
+      		<content src="MEFTU/_Toc.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="3" id="navPoint-1">
+    	<navLabel><text>Apple - The apple does not fall far from</text></navLabel>
+      		<content src="MEFTU/Apple.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="4" id="navPoint-1">
+    	<navLabel><text>Bee - The magic of bumblebee's flight</text></navLabel>
+      		<content src="MEFTU/Bee.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="5" id="navPoint-1">
+    	<navLabel><text>Control - Everybody is a little controller</text></navLabel>
+      		<content src="MEFTU/Control.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="6" id="navPoint-1">
+    	<navLabel><text>Death - Nature's answer to continuity</text></navLabel>
+      		<content src="MEFTU/Death.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="7" id="navPoint-1">
+    	<navLabel><text>Earth - The blue ball of the moon landing</text></navLabel>
+      		<content src="MEFTU/Earth.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="8" id="navPoint-1">
+    	<navLabel><text>Focus - The focus you keep, is who you are</text></navLabel>
+      		<content src="MEFTU/Focus.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="9" id="navPoint-1">
+    	<navLabel><text>Good - The good the bad and the universe</text></navLabel>
+      		<content src="MEFTU/Good.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="10" id="navPoint-1">
+    	<navLabel><text>Healing - Unclogging the obstruction</text></navLabel>
+      		<content src="MEFTU/Healing.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="11" id="navPoint-1">
+    	<navLabel><text>Inalienable - The traits of society</text></navLabel>
+      		<content src="MEFTU/Inalienable.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="12" id="navPoint-1">
+    	<navLabel><text>Joke - How not to be a comedian</text></navLabel>
+      		<content src="MEFTU/Joke.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="13" id="navPoint-1">
+    	<navLabel><text>Kitchen - The ever shifting table dirt</text></navLabel>
+      		<content src="MEFTU/Kitchen.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="14" id="navPoint-1">
+    	<navLabel><text>Looks - The dream I have</text></navLabel>
+      		<content src="MEFTU/Looks.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="15" id="navPoint-1">
+    	<navLabel><text>Molecules - The neighboring interaction</text></navLabel>
+      		<content src="MEFTU/Molecules.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="16" id="navPoint-1">
+    	<navLabel><text>Newton - Equal and opposing forces</text></navLabel>
+      		<content src="MEFTU/Newton.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="17" id="navPoint-1">
+    	<navLabel><text>Old - The power of tradition</text></navLabel>
+      		<content src="MEFTU/Old.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="18" id="navPoint-1">
+    	<navLabel><text>Potato - The spiritual Quantum Physics</text></navLabel>
+      		<content src="MEFTU/Potato.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="19" id="navPoint-1">
+    	<navLabel><text>Query - Looking for answers</text></navLabel>
+      		<content src="MEFTU/Query.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="20" id="navPoint-1">
+    	<navLabel><text>Religion - Our spiritual side</text></navLabel>
+      		<content src="MEFTU/Religion.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="21" id="navPoint-1">
+    	<navLabel><text>Snake - In the bushes</text></navLabel>
+      		<content src="MEFTU/Snake.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="22" id="navPoint-1">
+    	<navLabel><text>Tribe - Comprehending Tribal roots</text></navLabel>
+      		<content src="MEFTU/Tribe.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="23" id="navPoint-1">
+    	<navLabel><text>Underwear - Hidden slaves</text></navLabel>
+      		<content src="MEFTU/Underwear.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="24" id="navPoint-1">
+    	<navLabel><text>Venom - Of the spirit</text></navLabel>
+      		<content src="MEFTU/Venom.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="25" id="navPoint-1">
+    	<navLabel><text>Wish - For a better world</text></navLabel>
+      		<content src="MEFTU/Wish.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="26" id="navPoint-1">
+    	<navLabel><text>Xtras - Miracles and wonders</text></navLabel>
+      		<content src="MEFTU/Xtras.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="27" id="navPoint-1">
+    	<navLabel><text>You - The center of the universe</text></navLabel>
+      		<content src="MEFTU/You.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="28" id="navPoint-1">
+    	<navLabel><text>Zigzag - Of choices</text></navLabel>
+      		<content src="MEFTU/Zigzag.html"></content> 
+    	</navPoint>
+	<navPoint class="chapter" playOrder="29" id="navPoint-1">
+    	<navLabel><text>Epilogue, stay tuned</text></navLabel>
+      		<content src="MEFTU/___Epilogue.html"></content> 
+    	</navPoint>
+</manifest>
+</ncx>

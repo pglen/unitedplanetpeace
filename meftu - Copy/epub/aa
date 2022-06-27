@@ -1,0 +1,61 @@
+
+dictize ['text:sequence-decls']
+dic {'text:sequence-decls': ''}
+dictize ['text:sequence-decl', 'text:display-outline-level="0"', 'text:name="Illustration"/']
+dic {'text:sequence-decl': '', 'text:name': 'Illustration/', 'text:display-outline-level': '0'}
+dictize ['text:sequence-decl', 'text:display-outline-level="0"', 'text:name="Table"/']
+dic {'text:sequence-decl': '', 'text:name': 'Table/', 'text:display-outline-level': '0'}
+dictize ['text:sequence-decl', 'text:display-outline-level="0"', 'text:name="Text"/']
+dic {'text:sequence-decl': '', 'text:name': 'Text/', 'text:display-outline-level': '0'}
+dictize ['text:sequence-decl', 'text:display-outline-level="0"', 'text:name="Drawing"/']
+dic {'text:sequence-decl': '', 'text:name': 'Drawing/', 'text:display-outline-level': '0'}
+dictize ['text:p', 'text:style-name="P2"']
+dic {'text:p': '', 'text:style-name': 'P2'}
+data.style P2
+[Epilogue]
+
+dictize ['text:p', 'text:style-name="P3"']
+dic {'text:p': '', 'text:style-name': 'P3'}
+dictize ['text:span', 'text:style-name="T4"']
+dic {'text:span': '', 'text:style-name': 'T4'}
+dictize ['text:s/']
+dic {'text:s/': ''}
+dictize ['text:p', 'text:style-name="Standard"']
+dic {'text:p': '', 'text:style-name': 'Standard'}
+dictize ['text:s', 'text:c="4"/']
+dic {'text:s': '', 'text:c': '4/'}
+data.style Standard
+[Chapters interweave, concepts ]
+
+dictize ['text:span', 'text:style-name="T1"']
+dic {'text:span': '', 'text:style-name': 'T1'}
+data.style T1
+[intertwine ] dictize ['text:span', 'text:style-name="T2"']
+dic {'text:span': '', 'text:style-name': 'T2'}
+data.style T2
+[here] [. A concept ]
+
+dictize ['text:span', 'text:style-name="T3"']
+dic {'text:span': '', 'text:style-name': 'T3'}
+data.style T3
+[expressed] [ in one section, turned upside down or modified in the other. ]
+
+dictize ['text:p', 'text:style-name="P1"/']
+dic {'text:p': '', 'text:style-name': 'P1/'}
+dictize ['text:p', 'text:style-name="Standard"/']
+dic {'text:p': '', 'text:style-name': 'Standard/'}
+dictize ['text:p', 'text:style-name="Standard"/']
+dic {'text:p': '', 'text:style-name': 'Standard/'}
+
+
+Epilogue
+
+Chapters interweave, concepts 
+
+intertwine here. A concept 
+
+expressed in one section, turned upside down or modified in the other. 
+
+
+
+

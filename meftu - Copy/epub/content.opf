@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="2.0" unique-identifier="isbn" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:title>MEFTU/</dc:title>
+      <dc:creator opf:role="aut">Peter Glen</dc:creator>
+      <dc:language>en</dc:language>
+      <dc:rights>Public Domain</dc:rights>
+      <dc:description>Messages From the Universe</dc:description>
+  </metadata>
+
+<manifest>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"></item>
+	<item id="Title page" href="MEFTU/__Title.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Introduction" href="MEFTU/_Intro.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Tabel of Contents" href="MEFTU/_Toc.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Apple - The apple does not fall far from" href="MEFTU/Apple.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Bee - The magic of bumblebee's flight" href="MEFTU/Bee.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Control - Everybody is a little controller" href="MEFTU/Control.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Death - Nature's answer to continuity" href="MEFTU/Death.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Earth - The blue ball of the moon landing" href="MEFTU/Earth.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Focus - The focus you keep, is who you are" href="MEFTU/Focus.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Good - The good the bad and the universe" href="MEFTU/Good.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Healing - Unclogging the obstruction" href="MEFTU/Healing.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Inalienable - The traits of society" href="MEFTU/Inalienable.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Joke - How not to be a comedian" href="MEFTU/Joke.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Kitchen - The ever shifting table dirt" href="MEFTU/Kitchen.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Looks - The dream I have" href="MEFTU/Looks.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Molecules - The neighboring interaction" href="MEFTU/Molecules.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Newton - Equal and opposing forces" href="MEFTU/Newton.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Old - The power of tradition" href="MEFTU/Old.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Potato - The spiritual Quantum Physics" href="MEFTU/Potato.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Query - Looking for answers" href="MEFTU/Query.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Religion - Our spiritual side" href="MEFTU/Religion.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Snake - In the bushes" href="MEFTU/Snake.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Tribe - Comprehending Tribal roots" href="MEFTU/Tribe.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Underwear - Hidden slaves" href="MEFTU/Underwear.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Venom - Of the spirit" href="MEFTU/Venom.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Wish - For a better world" href="MEFTU/Wish.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Xtras - Miracles and wonders" href="MEFTU/Xtras.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="You - The center of the universe" href="MEFTU/You.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Zigzag - Of choices" href="MEFTU/Zigzag.html" media-type="application/x-dtbncx+xml"></item>
+	<item id="Epilogue, stay tuned" href="MEFTU/___Epilogue.html" media-type="application/x-dtbncx+xml"></item>
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="Title page"></itemref>
+	<itemref linear="yes" idref="Introduction"></itemref>
+	<itemref linear="yes" idref="Tabel of Contents"></itemref>
+	<itemref linear="yes" idref="Apple - The apple does not fall far from"></itemref>
+	<itemref linear="yes" idref="Bee - The magic of bumblebee's flight"></itemref>
+	<itemref linear="yes" idref="Control - Everybody is a little controller"></itemref>
+	<itemref linear="yes" idref="Death - Nature's answer to continuity"></itemref>
+	<itemref linear="yes" idref="Earth - The blue ball of the moon landing"></itemref>
+	<itemref linear="yes" idref="Focus - The focus you keep, is who you are"></itemref>
+	<itemref linear="yes" idref="Good - The good the bad and the universe"></itemref>
+	<itemref linear="yes" idref="Healing - Unclogging the obstruction"></itemref>
+	<itemref linear="yes" idref="Inalienable - The traits of society"></itemref>
+	<itemref linear="yes" idref="Joke - How not to be a comedian"></itemref>
+	<itemref linear="yes" idref="Kitchen - The ever shifting table dirt"></itemref>
+	<itemref linear="yes" idref="Looks - The dream I have"></itemref>
+	<itemref linear="yes" idref="Molecules - The neighboring interaction"></itemref>
+	<itemref linear="yes" idref="Newton - Equal and opposing forces"></itemref>
+	<itemref linear="yes" idref="Old - The power of tradition"></itemref>
+	<itemref linear="yes" idref="Potato - The spiritual Quantum Physics"></itemref>
+	<itemref linear="yes" idref="Query - Looking for answers"></itemref>
+	<itemref linear="yes" idref="Religion - Our spiritual side"></itemref>
+	<itemref linear="yes" idref="Snake - In the bushes"></itemref>
+	<itemref linear="yes" idref="Tribe - Comprehending Tribal roots"></itemref>
+	<itemref linear="yes" idref="Underwear - Hidden slaves"></itemref>
+	<itemref linear="yes" idref="Venom - Of the spirit"></itemref>
+	<itemref linear="yes" idref="Wish - For a better world"></itemref>
+	<itemref linear="yes" idref="Xtras - Miracles and wonders"></itemref>
+	<itemref linear="yes" idref="You - The center of the universe"></itemref>
+	<itemref linear="yes" idref="Zigzag - Of choices"></itemref>
+	<itemref linear="yes" idref="Epilogue, stay tuned"></itemref>
+
+</spine>
+    
+
+  <guide>
+    <reference type="cover" title="MEFTU/" href="MEFTU/__Title.html"></reference>
+  </guide>
+</package>
+

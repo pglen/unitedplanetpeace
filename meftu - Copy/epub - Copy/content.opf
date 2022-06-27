@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="2.0" unique-identifier="isbn" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:title>MEFTU/</dc:title>
+      <dc:creator opf:role="aut">Peter Glen</dc:creator>
+      <dc:language>en</dc:language>
+      <dc:rights>Public Domain</dc:rights>
+      <dc:description>Messages From the Universe</dc:description>
+  </metadata>
+
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"></item>
+    <item id="Title Page" href="MEFTU/__Title.html" media-type="application/xhtml+xml"></item>
+    <item id="Introduction" href="MEFTU/_Intro.html" media-type="application/xhtml+xml"></item>
+    <item id="Table of contents" href="MEFTU/_Toc.html" media-type="application/xhtml+xml"></item>
+    <item id="Apple" href="MEFTU/Apple.html" media-type="application/xhtml+xml"></item>
+    <item id="Bee" href="MEFTU/Bee.html" media-type="application/xhtml+xml"></item>
+  </manifest>
+
+  <spine toc="ncx">
+    <itemref linear="yes" idref="Title Page"></itemref>
+    <itemref linear="yes" idref="Introduction"></itemref>
+    <itemref linear="yes" idref="Table of contents"></itemref>
+    <itemref linear="yes" idref="Apple"></itemref>
+    <itemref linear="yes" idref="Bee"></itemref>
+  </spine>
+
+  <guide>
+    <reference type="cover" title="MEFTU/" href="MEFTU/__Title.html"></reference>
+  </guide>
+</package>
